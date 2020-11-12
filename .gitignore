@@ -3,3 +3,10 @@
 ################################################################################
 
 *.json
+/server.web/bin/Debug/netcoreapp2.1
+/server.web/obj/Debug/netcoreapp2.1
+*.cache
+*.props
+*.targets
+/.vs/server.web/DesignTimeBuild/.dtbcache
+/.vs/server.web/v15/Server/sqlite3
